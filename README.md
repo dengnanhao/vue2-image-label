@@ -1,6 +1,6 @@
-# vue-image-label
+# vue2-image-label
 
-Vue 图片内容标记组件，用于圈出图片四边形内容并获取标记点坐标。**React**版本请参考组件[image-label](https://github.com/nhdeng/image-label)
+Vue2 图片内容标记组件，用于圈出图片四边形内容并获取标记点坐标。**React**版本请参考组件[image-label](https://github.com/nhdeng/image-label)
 
 ## 预览
 
@@ -9,19 +9,19 @@ Vue 图片内容标记组件，用于圈出图片四边形内容并获取标记�
 ## 安装
 
 ```bash
-yarn add vue-image-label
+yarn add vue2-image-label
 
 or
 
-npm i vue-image-label --save
+npm i vue2-image-label --save
 ```
 
 ## 使用
 
 ```typescript
-import VueImageLabel from "vue-image-label";
+import Vue2ImageLabel from "vue2-image-label";
 
-<LabelImage url="https://stbrain.kjt.zj.gov.cn/Documents/ac681331-de00-4fcb-b082-27159b32f6c5/Instruments/43%20%E7%A2%B3%E7%A1%AB%E5%88%86%E6%9E%90%E4%BB%AA.jpg" />;
+<Vue2ImageLabel url="https://p1.ssl.qhimg.com/t01d5bfa57d9ec88727.jpg" />;
 ```
 
 ## 属性说明
