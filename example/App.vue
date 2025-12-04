@@ -1,8 +1,8 @@
 <script lang="ts">
 import Vue from 'vue'
-// import VueLabelImage from "vue-image-label";
+import VueLabelImage from "vue2-image-label";
 // @ts-ignore
-import VueLabelImage from "../packages/image-label.vue";
+// import VueLabelImage from "../packages/image-label.vue";
 
 interface Point {x: number; y:number}
 

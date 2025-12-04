@@ -1,7 +1,7 @@
 {
   "name": "vue2-image-label",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.1.1",
   "type": "module",
   "files": [
     "dist"
@@ -21,15 +21,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^2.7.14",
-    "vue2-image-label": "^1.0.0"
+    "vue": "^2.7.14"
   },
   "devDependencies": {
-    "vite-plugin-vue2": "^2.0.3",
     "typescript": "^4.9.3",
     "vite": "^4.1.0",
     "vite-plugin-dts": "2.0.0-beta.3",
     "vite-plugin-libcss": "^1.0.5",
+    "vite-plugin-vue2": "^2.0.3",
     "vue-template-compiler": "^2.7.14"
   },
   "repository": {
